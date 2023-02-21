@@ -29,7 +29,24 @@ Patients with onset of sepsis have longer stay in the hospital, while all patien
 ![image](https://user-images.githubusercontent.com/110540717/220344557-9ba0fbe6-ecbd-4e77-b271-151268a862fb.png)
 
 
+# Data Preparation:
+
+
+### Impute missing values
 
 
 # Preliminary Modelling:
 
+### Model 1:
+![image](https://user-images.githubusercontent.com/110540717/220348039-d784994b-9b44-443b-939d-d16114dffffd.png)
+
+![image](https://user-images.githubusercontent.com/110540717/220347874-6bf5afef-ae83-4ed1-b15b-a46b9513d4e0.png)
+
+
+### Model 2:
+![image](https://user-images.githubusercontent.com/110540717/220348231-f7f84f04-1a3b-4184-8140-509d583e33eb.png)
+
+
+Conclusion:
+
+Recommendations:
