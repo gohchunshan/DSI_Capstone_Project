@@ -13,7 +13,7 @@ Secondarily, we also wish to find the optimal window (number of hours in advcanc
 
 - Only about 1.8% of raw records indicate sepsis [27916 / 1524294]
 - Out of 40,336 unique patients, only about 7.3% patients have onset of sepsis [2932/40336]
-![image](https://user-images.githubusercontent.com/110540717/220344058-5d3a3b97-4552-4db1-94a8-f920124a445a.png)
+![image](https://user-images.githubusercontent.com/110540717/220344215-fe2eb842-d7f2-4aa8-a249-e68871e7bd03.png)
 
 
 # Preliminary Modelling:
