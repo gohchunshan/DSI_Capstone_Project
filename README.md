@@ -15,6 +15,19 @@ Secondarily, we also wish to find the optimal window (number of hours in advcanc
 - Out of 40,336 unique patients, only about 7.3% patients have onset of sepsis [2932/40336]
 ![image](https://user-images.githubusercontent.com/110540717/220344215-fe2eb842-d7f2-4aa8-a249-e68871e7bd03.png)
 
+Patients with onset of sepsis have longer stay in the hospital, while all patients without onset of sepsis are discharged within 60 hours of admission to the hospital. This could be because patients with sepsis have serious conditions that might need longer hospitalisation to treat and monitor, instead of an indication that patients with long stay have a higher chance of sepsis onset. ![image](https://user-images.githubusercontent.com/110540717/220344419-7ca25762-bcd9-46e1-9584-f94bb156437b.png)
+
+![image](https://user-images.githubusercontent.com/110540717/220344381-42ded86c-6618-4722-a6bf-f60715430aba.png)
+
+
+Sepsis reported in the first hour for 14.5% of sepsis patients [426/2932]
+Sepsis reported in first 5 hours for 25.0% of sepsis patients [733/2932]
+Sepsis reported in first 10 hours for 32% of sepsis patients [948/2932]
+Median hour of sepsis onset = 28.0
+![image](https://user-images.githubusercontent.com/110540717/220344557-9ba0fbe6-ecbd-4e77-b271-151268a862fb.png)
+
+
+
 
 # Preliminary Modelling:
 
